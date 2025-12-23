@@ -9,4 +9,8 @@ To try this program yourself, open this site:
 
 https://mybinder.org/v2/gh/jla690/integral-visualizer/main
 
-After it loads, go to integral.ipynb on the left sidebar and run the notebook
+After it loads, go to `integral.ipynb` on the left sidebar
+
+On the top, click `Run` then `Run Selected Cell`
+
+After it runs, scroll down and the demo will be present
