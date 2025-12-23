@@ -1,3 +1,4 @@
+#!/bin/bash
 # Optional post-build hook for Binder - runs after dependencies are installed.
 # You can add additional setup commands here if you need them.
 echo "Binder postBuild finished"
